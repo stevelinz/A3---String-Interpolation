@@ -1,22 +1,7 @@
 ﻿using System;
 
-/*A3 - String Interpolation
+/*A3 - String Interpolation - Steve Linz Feb 2021
 Display the following using string interpolation:
-
-From today’s date
-
-1.January 22, 2019
-2.2019.01.22
-3.Day 22 of January, 2019
-4.Year: 2019, Month: 01, Day: 22
-5.            Tuesday (10 spaces)
-6.     11:01 PM             Tuesday (10 spaces between)
-7.h:11, m:01, s:27
-8.2019.01.22.11.01.27
-
- If you have PI (3.1415)
-1. Output as currency
-2. Output as right-aligned (10 spaces), number with 3 decimal places
 */
 
 
